@@ -1,0 +1,64 @@
+<!--
+  ~ Copyright (C) 2021 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Lunch Tray</string>
+    <string name="tile_start_order">Order</string>
+    <string name="title_coupons">Coupons</string>
+    <string name="title_entree_menu">Entrees</string>
+    <string name="title_side_menu">Sides</string>
+    <string name="title_accompaniment_menu">Accompaniments</string>
+    <string name="title_checkout">Checkout</string>
+    <string name="start_order">Start Order</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">Tax: %s</string>
+    <string name="total">Total: %s</string>
+    <string name="next">Next</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="submit">Submit Order</string>
+    <string name="submit_order">Order Submitted!</string>
+    <string name="Cauliflower"> Cauliflower</string>
+    <string name="Three_Bean_Chili" > Three Bean Chili</string>
+    <string name="Mushroom_Pasta"> Mushroom Pasta</string>
+    <string name="Spicy_Black_Bean_Skille"> Spicy Black Bean Skille </string>
+    <string name="Summer_Salad"> Summer Salad</string>
+    <string name="Butternut_Squash_Soup" > Butternut Squash Soup</string>
+    <string name="Spicy_Potatoes"> Spicy Potatoes</string>
+    <string name="Coconut_Rice"> Coconut Rice</string>
+    <string name="Lunch_Roll" > Lunch Roll</string>
+    <string name="Mixed_Berries"> Mixed Berries </string>
+    <string name="Pickled_Veggies" > Pickled Veggies</string>
+    <string name="bat_dau_goi_mon"> Start Order! </string>
+    <string name="chon_mon_chinh"> Choose Entree!</string>
+    <string name="chon_mon_phu"> Choose Side!</string>
+    <string name="chon_mon_trang_mieng"> Choose Accompaniment!</string>
+    <string name="in_hoa_don"> Print Bill! </string>
+    <string name="chuc_mung"> Congratulations on your successful order! </string>
+    <string name="tong_tien"> Your total bill: %s</string>
+    <string name="exit"> Exit </string>
+    <string name="danh_sach"> Danh sách các món ăn: %s</string>
+    <string name="dat_lai_mon">Order Again!</string>
+    <string name="how_was_service" > How was the service? </string>
+    <string name="amazing_service">Amazing (20%)</string>
+    <string name="good_service">Good (18%)</string>
+    <string name="ok_service">Okay (15%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="result_service_cost">Cost of Service: %s</string>
+    <string name="total_result"> total service: %s</string>
+    <string name="service_cost"> Cost of Service:</string>
+    <string name="confirm">Confirm</string>
+</resources>
